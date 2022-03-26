@@ -1,0 +1,87 @@
+{
+  "signupuser": [
+    {
+      "fullname": "navnath jayram Bodkhe",
+      "mobile": "",
+      "email": "talegaon Dighe, Sangamner",
+      "password": "navnath@123",
+      "id": 1
+    },
+    {
+      "fullname": "vishnu",
+      "mobile": "",
+      "email": "vishnu@gmail.com",
+      "password": "vishnu@123",
+      "id": 2
+    },
+    {
+      "fullname": "Amol",
+      "mobile": "",
+      "email": "amol@gmail.com",
+      "password": "amol",
+      "id": 3
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "firstName": "ram",
+      "lastName": "prasad",
+      "email": "ram@gmail.com",
+      "mobile": 9309730724,
+      "fees": "23000"
+    },
+    {
+      "id": 3,
+      "firstName": "sham",
+      "lastName": "kapur",
+      "email": "sham@gmail.com",
+      "mobile": 232332,
+      "fees": "45000"
+    },
+    {
+      "id": 4,
+      "firstName": "krishna",
+      "lastName": "patil",
+      "email": "amol@gmail.com",
+      "mobile": 4598378777,
+      "fees": "5600000"
+    },
+    {
+      "id": 5,
+      "firstName": "sham",
+      "lastName": "kapur",
+      "email": "sham@gmail.com",
+      "mobile": 9309730724,
+      "fees": "45009"
+    },
+    {
+      "id": 6,
+      "firstName": "vishal",
+      "lastName": "varma",
+      "email": "amolbodkhe487@gmail.com",
+      "mobile": 9309730724,
+      "fees": "123"
+    },
+    {
+      "id": 7,
+      "firstName": "Sanket",
+      "lastName": "patil",
+      "email": "sanket@gmail.com",
+      "mobile": 9309730724,
+      "fees": "30,345"
+    },
+    {
+      "id": 8,
+      "firstName": "mayur",
+      "lastName": "Dighe",
+      "email": "mayur@gmail.com",
+      "mobile": 9865542343,
+      "fees": "45500"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
